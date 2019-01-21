@@ -17,4 +17,5 @@
       -n for no commit for revert 
   
 * **Revert pushed Multiple commit without revert commit**
-      git revert -n _oldest commit id_.._lastest commit id_
+
+      git revert -n oldest commit id.._lastest commit id
